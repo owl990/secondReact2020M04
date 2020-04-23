@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/secondReact2020M04/static/css/main.d1b05096.chunk.css",
+    "main.js": "/secondReact2020M04/static/js/main.581cebd6.chunk.js",
+    "main.js.map": "/secondReact2020M04/static/js/main.581cebd6.chunk.js.map",
+    "runtime-main.js": "/secondReact2020M04/static/js/runtime-main.ebfc6ad8.js",
+    "runtime-main.js.map": "/secondReact2020M04/static/js/runtime-main.ebfc6ad8.js.map",
+    "static/js/2.a837268b.chunk.js": "/secondReact2020M04/static/js/2.a837268b.chunk.js",
+    "static/js/2.a837268b.chunk.js.map": "/secondReact2020M04/static/js/2.a837268b.chunk.js.map",
+    "index.html": "/secondReact2020M04/index.html",
+    "precache-manifest.b25947a97d4b064457e2601b694385df.js": "/secondReact2020M04/precache-manifest.b25947a97d4b064457e2601b694385df.js",
+    "service-worker.js": "/secondReact2020M04/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/secondReact2020M04/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a837268b.chunk.js.LICENSE.txt": "/secondReact2020M04/static/js/2.a837268b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/secondReact2020M04/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebfc6ad8.js",
+    "static/js/2.a837268b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.581cebd6.chunk.js"
+  ]
+}
